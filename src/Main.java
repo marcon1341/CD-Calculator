@@ -26,7 +26,7 @@ public class Main {
         double totalInterest = futureValue - principal;
 
         //out put
-        System.out.printf("The Future is : $%.2f\n" , futureValue);
+        System.out.printf("The Future Value is : $%.2f\n" , futureValue);
         System.out.printf("Total Interest Earned: $%.2f", totalInterest);
 
     }
